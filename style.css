@@ -25,7 +25,7 @@ img {
 	object-fit: cover;
 }
 p {
-	color: black;
+	color: rgb(255, 255, 255) 24);
 	font-size: 1.4rem;
 	margin-top: 5px;
 	line-height: 2.5rem;
@@ -82,7 +82,7 @@ p {
 }
 #header .header {
 	min-height: 8vh;
-	background-color: rgba(31, 30, 30, 0.24);
+	background-color: rgba(17, 233, 233, 0.24);
 	transition: 0.3s ease background-color;
 }
 #header .nav-bar {
@@ -97,7 +97,7 @@ p {
 #header .nav-list ul {
 	list-style: none;
 	position: absolute;
-	background-color: rgb(31, 30, 30);
+	background-color: rgba(17, 233, 100, 0.24);
 	width: 100vw;
 	height: 100vh;
 	left: 100%;
@@ -503,7 +503,7 @@ p {
 	padding-bottom: 10px;
 }
 #footer h2 {
-	color: white;
+	color: rgb(216, 62, 62);
 	font-weight: 500;
 	font-size: 1.8rem;
 	letter-spacing: 0.1rem;
@@ -527,7 +527,7 @@ p {
 	filter: grayscale(0);
 }
 #footer p {
-	color: white;
+	color: rgb(250, 244, 244))55, 255, 255);
 	font-size: 1.3rem;
 }
 /* End Footer */
@@ -560,7 +560,7 @@ p {
 }
 @keyframes text_reveal_name {
 	100% {
-		color: crimson;
+		color: rgb(225, 96, 184);
 		font-weight: 500;
 	}
 }
@@ -624,7 +624,7 @@ p {
 		top: 34px;
 		height: 98%;
 		width: 98%;
-		border: 10px solid crimson;
+		border: 10px solid rgb(220, 20, 183);
 	}
 	#about .col-right {
 		text-align: left;
